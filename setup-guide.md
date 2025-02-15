@@ -10,16 +10,18 @@
 1. **Clone the Repository**
 
    ```sh
-   git clone <your-repo-url>
-   cd inventory-management
+   git clone https://github.com/jaydeep-bagthariya/Inventory-Managemetn.git
+   cd Inventory-Management
 
    ```
 
 2. **Install Dependencies**
+
    ```sh
    npm install
 
    ```
+
 3. **Configure Environment Variables**
 
    - Rename .env.example to .env
