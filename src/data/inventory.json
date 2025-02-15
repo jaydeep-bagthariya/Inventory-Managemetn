@@ -1,0 +1,122 @@
+[
+  {
+    "apparelCode": "TSHIRT001",
+    "size": "S",
+    "stock": 40,
+    "price": 15.99
+  },
+  {
+    "apparelCode": "TSHIRT001",
+    "size": "M",
+    "stock": 40,
+    "price": 19.99
+  },
+  {
+    "apparelCode": "TSHIRT001",
+    "size": "L",
+    "stock": 30,
+    "price": 17.99
+  },
+  {
+    "apparelCode": "HOODIE002",
+    "size": "M",
+    "stock": 20,
+    "price": 45.99
+  },
+  {
+    "apparelCode": "HOODIE002",
+    "size": "L",
+    "stock": 15,
+    "price": 49.99
+  },
+  {
+    "apparelCode": "JEANS003",
+    "size": "32",
+    "stock": 50,
+    "price": 39.99
+  },
+  {
+    "apparelCode": "JEANS003",
+    "size": "34",
+    "stock": 40,
+    "price": 41.99
+  },
+  {
+    "apparelCode": "JACKET004",
+    "size": "M",
+    "stock": 15,
+    "price": 59.99
+  },
+  {
+    "apparelCode": "JACKET004",
+    "size": "L",
+    "stock": 10,
+    "price": 62.99
+  },
+  {
+    "apparelCode": "JACKET004",
+    "size": "XL",
+    "stock": 5,
+    "price": 65.99
+  },
+  {
+    "apparelCode": "SHORTS005",
+    "size": "S",
+    "stock": 50,
+    "price": 19.99
+  },
+  {
+    "apparelCode": "SHORTS005",
+    "size": "M",
+    "stock": 45,
+    "price": 21.99
+  },
+  {
+    "apparelCode": "SHORTS005",
+    "size": "L",
+    "stock": 40,
+    "price": 23.99
+  },
+  {
+    "apparelCode": "CAP006",
+    "size": "M",
+    "stock": 60,
+    "price": 12.99
+  },
+  {
+    "apparelCode": "CAP006",
+    "size": "L",
+    "stock": 50,
+    "price": 13.99
+  },
+  {
+    "apparelCode": "SWEATER007",
+    "size": "M",
+    "stock": 30,
+    "price": 42.99
+  },
+  {
+    "apparelCode": "SWEATER007",
+    "size": "L",
+    "stock": 25,
+    "price": 44.99
+  },
+  {
+    "apparelCode": "SWEATER007",
+    "size": "XL",
+    "stock": 20,
+    "price": 46.99
+  },
+  {
+    "apparelCode": "GLOVES008",
+    "size": "M",
+    "stock": 70,
+    "price": 9.99
+  },
+  {
+    "apparelCode": "GLOVES008",
+    "size": "L",
+    "stock": 60,
+    "price": 11.99
+  }
+]
