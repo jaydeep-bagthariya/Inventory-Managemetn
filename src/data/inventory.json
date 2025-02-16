@@ -8,8 +8,8 @@
   {
     "apparelCode": "TSHIRT001",
     "size": "M",
-    "stock": 40,
-    "price": 19.99
+    "stock": 10,
+    "price": 25.99
   },
   {
     "apparelCode": "TSHIRT001",
@@ -26,8 +26,8 @@
   {
     "apparelCode": "HOODIE002",
     "size": "L",
-    "stock": 15,
-    "price": 49.99
+    "stock": 5,
+    "price": 30
   },
   {
     "apparelCode": "JEANS003",
