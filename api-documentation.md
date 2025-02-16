@@ -2,7 +2,7 @@
 
 ## 1️⃣ Update Stock & Price (Single)
 
-- **Endpoint:** `PUT /api/vendor/update`
+- **Endpoint:** `PUT /api/vendor/apparel`
 - **Request Body:**
   ```json
   {
@@ -22,7 +22,7 @@
 
 ## 2️⃣ Bulk Update Stock & Price
 
-- **Endpoint:** `PUT /api/vendor/update/bulk`
+- **Endpoint:** `PUT /api/vendor/apparel/bulk`
 - **Request Body:**
   ```json
   {
@@ -33,6 +33,7 @@
   }
   ```
 - **Response:**
+
   ```json
   {
     "status": "success",
